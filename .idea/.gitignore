@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.Practicums.iml
+/.gitignore
+/.idea
+/out/
+# Datasource local storage ignored files
+/../../../../../../../:\Users\hdded\Documents\Periode_C\Practicums\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
